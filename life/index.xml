@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活中的那些事儿~ on nil</title>
-    <link>weidonggg.github.io/life/</link>
+    <link>/life/</link>
     <description>Recent content in 生活中的那些事儿~ on nil</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2020 nil</copyright>
     <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="weidonggg.github.io/life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/life/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
