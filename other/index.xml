@@ -18,9 +18,9 @@
       
       <guid>/other/hello-world/</guid>
       <description>测试一下 你好，世界！
-嗯，这个主题感觉还行，这个博客看样子是可以用了；
-那就这样吧:)
-Code test # Shell script code. $ echo &amp;#39;Hello world!&amp;#39; // Golang code. package main import ( &amp;#34;fmt&amp;#34; ) func main() { fmt.Println(&amp;#34;Hello world!&amp;#34;) } </description>
+嗯，这个主题感觉还行，博客看样子是可以用了；
+Code test 测试一下代码块高亮。
+# Shell script code. $ echo &amp;#39;Hello world!&amp;#39; // Golang code. package main import ( &amp;#34;fmt&amp;#34; ) func main() { fmt.Println(&amp;#34;Hello world!&amp;#34;) } 那就这样吧:)</description>
     </item>
     
   </channel>
